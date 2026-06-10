@@ -1,0 +1,9 @@
+​PAYMENT RECEIPT​
+​Policy Number: POL-2024-44556​
+​Applicant Name: Rajesh Kumar​
+​Amount Paid: Rs. 18,750​
+​Payment Date: 08/06/2024​
+​Transaction ID: TXN67890123​
+​Mode of Payment: Net Banking​
+​Bank: ICICI Bank​
+​Status: SUCCESS​

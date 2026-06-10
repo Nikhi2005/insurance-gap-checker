@@ -1,0 +1,9 @@
+​PAYMENT RECEIPT​
+​Policy Number: POL-2024-11223​
+​Applicant Name: Amit Verma​
+​Amount Paid: Rs. 8,200​
+​Payment Date: 05/06/2024​
+​Transaction ID: TXN56789012​
+​Mode of Payment: UPI​
+​Bank: SBI​
+​Status: SUCCESS​

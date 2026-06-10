@@ -1,0 +1,9 @@
+​PAYMENT RECEIPT​
+​Policy Number: POL-2024-98765​
+​Applicant Name: Rahul Sharma​
+​Amount Paid: Rs. 12,500​
+​Payment Date: 01/06/2024​
+​Transaction ID: TXN45678901​
+​Mode of Payment: Online Transfer​
+​Bank: HDFC Bank​
+​Status: SUCCESS​
