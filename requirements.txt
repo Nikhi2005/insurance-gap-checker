@@ -1,0 +1,9 @@
+streamlit
+pymupdf
+pytesseract
+pillow
+openai
+python-dotenv
+pandas
+fpdf2
+requests
