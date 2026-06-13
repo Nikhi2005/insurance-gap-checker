@@ -1,0 +1,54 @@
+[
+    {
+        "file": "kyc_A.txt",
+        "document_type": "KYC Document"
+    },
+    {
+        "file": "kyc_B.txt",
+        "document_type": "KYC Document"
+    },
+    {
+        "file": "kyc_C.txt",
+        "document_type": "KYC Document"
+    },
+    {
+        "file": "kyc_D.txt",
+        "document_type": "KYC Document"
+    },
+    {
+        "file": "nominee_A.txt",
+        "document_type": "Nominee Form"
+    },
+    {
+        "file": "nominee_D.txt",
+        "document_type": "Nominee Form"
+    },
+    {
+        "file": "payment_A.txt",
+        "document_type": "Payment Receipt"
+    },
+    {
+        "file": "payment_B.txt",
+        "document_type": "Payment Receipt"
+    },
+    {
+        "file": "payment_D.txt",
+        "document_type": "Payment Receipt"
+    },
+    {
+        "file": "proposal_A.txt",
+        "document_type": "Proposal Form"
+    },
+    {
+        "file": "proposal_B.txt",
+        "document_type": "Proposal Form"
+    },
+    {
+        "file": "proposal_C.txt",
+        "document_type": "Proposal Form"
+    },
+    {
+        "file": "proposal_D.txt",
+        "document_type": "Proposal Form"
+    }
+]
